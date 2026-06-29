@@ -1,0 +1,15 @@
+{
+  "name": "inspire-plugins",
+  "owner": {
+    "name": "Inspire Software",
+    "email": "support@inspiresoftware.com"
+  },
+  "description": "Claude plugins for Inspire Software clients",
+  "plugins": [
+    {
+      "name": "inspire",
+      "source": "./plugins/inspire",
+      "description": "Connect Claude to your Inspire account to read your data and create new records directly from your conversation."
+    }
+  ]
+}

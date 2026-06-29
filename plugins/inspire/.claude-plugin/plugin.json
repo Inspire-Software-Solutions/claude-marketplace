@@ -1,0 +1,10 @@
+{
+  "name": "inspire",
+  "version": "0.1.0",
+  "description": "Connect Claude to your Inspire account to read your data and create new records directly from your Claude conversation.",
+  "author": {
+    "name": "Inspire Software"
+  },
+  "homepage": "https://inspiresoftware.com",
+  "keywords": ["okr", "recognition", "performance", "objectives", "inspire"]
+}

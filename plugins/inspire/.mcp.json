@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "inspire": {
+      "type": "sse",
+      "url": "https://inspire-mcp-apim.azure-api.net/staging/mcp"
+    },
+    "inspire-actions": {
+      "type": "sse",
+      "url": "https://inspire-mcp-apim.azure-api.net/staging/actions/mcp"
+    }
+  }
+}
