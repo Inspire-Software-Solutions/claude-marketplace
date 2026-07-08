@@ -2,11 +2,11 @@
   "mcpServers": {
     "inspire": {
       "type": "sse",
-      "url": "https://inspire-mcp-apim.azure-api.net/staging/mcp"
+      "url": "https://gateway.inspiresoftware.com/usprod/mcp"
     },
     "inspire-actions": {
       "type": "sse",
-      "url": "https://inspire-mcp-apim.azure-api.net/staging/actions/mcp"
+      "url": "https://gateway.inspiresoftware.com/usprod/actions/mcp"
     }
   }
 }
