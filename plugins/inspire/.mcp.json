@@ -1,10 +1,10 @@
 {
   "mcpServers": {
-    "inspire": {
+    "Inspire": {
       "type": "sse",
       "url": "https://gateway.inspiresoftware.com/usprod/mcp"
     },
-    "inspire-actions": {
+    "Inspire Actions": {
       "type": "sse",
       "url": "https://gateway.inspiresoftware.com/usprod/actions/mcp"
     }
