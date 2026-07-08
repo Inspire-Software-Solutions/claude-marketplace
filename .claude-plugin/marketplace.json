@@ -9,7 +9,7 @@
     {
       "name": "inspire",
       "source": "./plugins/inspire",
-      "description": "Connect Claude to your Inspire account to read your data and create new records directly from your conversation."
+      "description": "Connect Claude to your Inspire account to read your data and create new records directly from your conversation. NOTE: Only available to current Inspire licensed users using Microsoft 365 (Entra Id)."
     }
   ]
 }
