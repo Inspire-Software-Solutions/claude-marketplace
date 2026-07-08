@@ -2,7 +2,7 @@
   "name": "inspire-plugins",
   "owner": {
     "name": "Inspire Software",
-    "email": "support@inspiresoftware.com"
+    "email": "it@inspiresoftware.com"
   },
   "description": "Claude plugins for Inspire Software clients",
   "plugins": [
