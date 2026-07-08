@@ -1,6 +1,6 @@
 # Inspire Plugin for Claude
 
-Connect Claude to your Inspire account to read your data and create new records directly from your Claude conversation.
+Connect Claude to your Inspire account to read your data and create new records directly from your Claude conversation. NOTE: Only available to current Inspire licensed users using Microsoft 365 (Entra Id).
 
 ## What's included
 
